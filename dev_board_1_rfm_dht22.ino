@@ -11,7 +11,7 @@
 #include <SoftwareSerial.h>
 #include <CayenneLPP.h>
 #include <LowPower.h>
-#include "config.h"
+#include "lora_config.h"
 
 #include <DHT.h>
 
